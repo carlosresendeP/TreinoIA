@@ -1,17 +1,18 @@
 
-# TreinoIA
+# FitnessAI
 Um projeto de inteligência artificial para geração de treinos personalizados utilizando a API do ChatGPT no backend e uma interface moderna com Vite + React no frontend.
 
 ---
 
 ## 📌 Sobre o projeto
 
-O **TreinoIA** é uma aplicação web que permite ao usuário gerar receitas culinárias personalizadas com base nos ingredientes disponíveis ou no tipo de prato desejado. A aplicação utiliza a API do ChatGPT para criar as receitas de forma dinâmica e criativa.
+O **FitnessAI** é uma aplicação web que permite ao usuário gerar receitas culinárias personalizadas com base nos ingredientes disponíveis ou no tipo de prato desejado. A aplicação utiliza a API do ChatGPT para criar as receitas de forma dinâmica e criativa.
 
 ---
 
 ## 📸 Demonstração
-![Captura de tela 2025-07-05 080431](https://github.com/user-attachments/assets/e1100d24-8be3-4227-ab03-4ba3442d311f)
+
+![Captura de tela 2025-07-07 205721](https://github.com/user-attachments/assets/de49a365-fbb4-46d1-a565-7d1eb280eb19)
 
 
 
@@ -110,7 +111,7 @@ http://localhost:3001
 
 ## 📖 Aprendizados
 
-Durante o desenvolvimento do **TreinoIA**, foram aplicadas práticas modernas de desenvolvimento web, integração de APIs de IA e manipulação de requisições HTTP. O projeto reforçou conceitos como:
+Durante o desenvolvimento do **FitnessAI**, foram aplicadas práticas modernas de desenvolvimento web, integração de APIs de IA e manipulação de requisições HTTP. O projeto reforçou conceitos como:
 
 - Consumo de APIs externas com segurança via `.env`
 - Integração frontend-backend via REST
