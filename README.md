@@ -1,19 +1,18 @@
 
-# 🍳 DevReceita
-
-Um projeto de inteligência artificial para geração de receitas personalizadas, utilizando a API do ChatGPT no backend e uma interface moderna com Vite + React no frontend.
+# TreinoIA
+Um projeto de inteligência artificial para geração de treinos personalizados utilizando a API do ChatGPT no backend e uma interface moderna com Vite + React no frontend.
 
 ---
 
 ## 📌 Sobre o projeto
 
-O **DevReceita** é uma aplicação web que permite ao usuário gerar receitas culinárias personalizadas com base nos ingredientes disponíveis ou no tipo de prato desejado. A aplicação utiliza a API do ChatGPT para criar as receitas de forma dinâmica e criativa.
+O **TreinoIA** é uma aplicação web que permite ao usuário gerar receitas culinárias personalizadas com base nos ingredientes disponíveis ou no tipo de prato desejado. A aplicação utiliza a API do ChatGPT para criar as receitas de forma dinâmica e criativa.
 
 ---
 
 ## 📸 Demonstração
+![Captura de tela 2025-07-05 080431](https://github.com/user-attachments/assets/e1100d24-8be3-4227-ab03-4ba3442d311f)
 
-![Captura de tela 2025-07-01 194619](https://github.com/user-attachments/assets/61501458-4f13-4b40-b082-41317183aa49)
 
 
 ---
@@ -73,7 +72,7 @@ devReceita/
 ### 🔧 Backend
 
 ```bash
-cd backend
+cd API
 npm install
 ```
 Crie um arquivo `.env` com:
@@ -88,7 +87,7 @@ node index.js
 ### 🔡 Frontend
 
 ```bash
-cd frontend
+cd interface
 npm install
 npm run dev
 ```
@@ -101,17 +100,17 @@ http://localhost:3001
 
 ## 📏 Funcionalidades
 
-- ✅ Geração de receitas personalizadas via inteligência artificial.
+- ✅ Geração de treinos personalizadas via inteligência artificial.
 - ✅ Interface rápida e responsiva com Vite + React.
 - ✅ Comunicação via API REST entre frontend e backend.
 - ✅ Possibilidade de personalizar os pedidos para a IA.
-- ✅ Exibição organizada da receita gerada.
+- ✅ Exibição organizada dos exercicios.
 
 ---
 
 ## 📖 Aprendizados
 
-Durante o desenvolvimento do **DevReceita**, foram aplicadas práticas modernas de desenvolvimento web, integração de APIs de IA e manipulação de requisições HTTP. O projeto reforçou conceitos como:
+Durante o desenvolvimento do **TreinoIA**, foram aplicadas práticas modernas de desenvolvimento web, integração de APIs de IA e manipulação de requisições HTTP. O projeto reforçou conceitos como:
 
 - Consumo de APIs externas com segurança via `.env`
 - Integração frontend-backend via REST
